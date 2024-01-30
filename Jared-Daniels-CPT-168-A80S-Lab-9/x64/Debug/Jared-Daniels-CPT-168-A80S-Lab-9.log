@@ -1,0 +1,3 @@
+﻿  Jared-Daniels-CPT-168-A80S-Lab-9.cpp
+C:\Users\ktjda\source\repos\Jared-Daniels-CPT-168-A80S-Lab-9\Jared-Daniels-CPT-168-A80S-Lab-9.cpp(45,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Jared-Daniels-CPT-168-A80S-Lab-9.vcxproj -> C:\Users\ktjda\source\repos\Jared-Daniels-CPT-168-A80S-Lab-9\x64\Debug\Jared-Daniels-CPT-168-A80S-Lab-9.exe

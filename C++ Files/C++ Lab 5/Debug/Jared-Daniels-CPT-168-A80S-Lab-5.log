@@ -1,4 +1,4 @@
-﻿  Jared-Daniels-CPT-168-A80S-Lab-5.cpp
+  Jared-Daniels-CPT-168-A80S-Lab-5.cpp
 C:\Users\ktjda\source\repos\Jared-Daniels-CPT-168-A80S-Lab-5\Jared-Daniels-CPT-168-A80S-Lab-5.cpp(38,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\ktjda\source\repos\Jared-Daniels-CPT-168-A80S-Lab-5\Jared-Daniels-CPT-168-A80S-Lab-5.cpp(42,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Jared-Daniels-CPT-168-A80S-Lab-5.vcxproj -> C:\Users\ktjda\source\repos\Jared-Daniels-CPT-168-A80S-Lab-5\Debug\Jared-Daniels-CPT-168-A80S-Lab-5.exe

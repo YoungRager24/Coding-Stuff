@@ -15,6 +15,5 @@ absolute = Math.abs(value);
 square = Math.sqrt(absolute);
 
 System.out.print("The square root of the absolute value is: "+deci.format(square));
-
     }
 }

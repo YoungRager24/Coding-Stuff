@@ -22,6 +22,7 @@ public class Username {
 
         System.out.print(num = rand.nextInt(90) + 10);
         //Prints a random number from 10-99//
+    
     }
 }
 

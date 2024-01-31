@@ -21,6 +21,5 @@ public class Phone {
 
       System.out.print(num1+"-"+num2+"-"+num3);
       
-
     }
 }

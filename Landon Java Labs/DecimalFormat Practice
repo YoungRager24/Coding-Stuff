@@ -1,0 +1,20 @@
+import java.text.DecimalFormat;
+import java.util.Scanner;
+
+public class Decimal_Test{
+public static void main(String[] args) {
+
+Scanner scan = new Scanner(System.in);
+DecimalFormat deci = new DecimalFormat("0.##");
+
+double value,absolute,square;
+
+System.out.print("Enter value: ");
+value =scan.nextDouble();
+absolute = Math.abs(value);
+square = Math.sqrt(absolute);
+
+System.out.print("The square root of the absolute value is: "+deci.format(square));
+
+    }
+}

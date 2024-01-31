@@ -21,6 +21,5 @@ public class Cube {
         System.out.print("The cube of the second integer is: " + Math.pow(num2,3));
 
 
-
     }
 }

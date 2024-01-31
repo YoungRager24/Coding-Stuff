@@ -15,6 +15,7 @@ public class College {
         System.out.print("Enter pet name: ");
         String pet = scan.nextLine();
 
+        //Generates a message with user input//
         System.out.print("Hello, my name is "+name+" and I am "+age+" years old.\n" +
                 "I’m enjoying my time at "+college+", though\n" +
                 "I miss my pet "+pet+" very much!\n");

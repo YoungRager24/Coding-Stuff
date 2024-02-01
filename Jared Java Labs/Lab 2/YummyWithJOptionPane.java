@@ -1,5 +1,3 @@
-package Jared_Daniels_cpt236_a80s_lab_2;
-
 /*
  * Jared Daniels
  * This program takes the number of guests that are attending an event and calculates the price of $35 per person and 

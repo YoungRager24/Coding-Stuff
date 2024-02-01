@@ -1,5 +1,3 @@
-package JaredDaniels_cpt236_a80s_Test1;
-
 /*
  * Jared Daniels
  * CPT-236-A80S

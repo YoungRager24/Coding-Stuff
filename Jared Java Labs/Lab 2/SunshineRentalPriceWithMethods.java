@@ -1,5 +1,3 @@
-package cpt236_a80s_lab_2;
-
 /*
  * Jared Daniels
  * This program takes the minutes of rental time and computes how much it costs for every hour and extra minute.

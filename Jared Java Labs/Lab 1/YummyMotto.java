@@ -1,5 +1,3 @@
-package cpt236_a80s_lab1;
-
 public class YummyMotto {
 
 	public static void main(String[] args) {

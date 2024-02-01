@@ -1,5 +1,3 @@
-package class236_a80s_demo;
-
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 

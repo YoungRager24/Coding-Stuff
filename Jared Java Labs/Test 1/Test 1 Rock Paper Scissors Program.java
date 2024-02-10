@@ -1,8 +1,3 @@
-/*
- * Jared Daniels
- * CPT-236-A80S
- */ 
-
 //importing classes
 import java.util.Random;
 import javax.swing.JOptionPane;
